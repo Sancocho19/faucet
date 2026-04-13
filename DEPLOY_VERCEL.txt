@@ -1,0 +1,12 @@
+SUBIR SOLO ESTA CARPETA A VERCEL
+
+1. Crea un proyecto nuevo en Vercel
+2. Sube SOLO esta carpeta
+3. Framework: Vite
+4. Build Command: npm run build
+5. Output Directory: dist
+6. Deploy
+
+SI LUEGO QUIERES CONECTAR EL BACKEND REAL:
+- crea variable de entorno VITE_API_BASE_URL con la URL del backend
+- vuelve a desplegar
